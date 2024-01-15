@@ -197,7 +197,7 @@
 }
 
 .page-header {
-    background:  url(../img/malouf/malouf2.JPG);
+    background:  url(../img/malouf/malouf1.JPG);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -586,4 +586,7 @@ ul li.playing .row span::before
     flex: 1; /* Chaque section prend une moitié de l'espace */
     padding: 20px; /* Espacement interne */
 }
+
+
+
 

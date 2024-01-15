@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("LSDeleteMessageRequest",[],(function(a,b,c,d,e,f){function a(){var a=arguments,b=a[a.length-1],c=[];return b.sequence([function(c){return b.forEach(b.filter(b.db.table(34).fetch([[[a[0]]]]),function(c){return b.i64.eq(c.threadKey,a[0])&&b.i64.eq(b.i64.cast([0,0]),b.i64.cast([0,0]))}),function(a){return a["delete"]()})},function(a){return b.resolve(c)}])}e.exports=a}),null);
+__d("LSUpdateAdditionalThreadContext",[],(function(a,b,c,d,e,f){function a(){var a=arguments,b=a[a.length-1],c=[];return b.sequence([function(c){return b.forEach(b.db.table(9).fetch([[[a[0]]]]),function(b){var c=b.update;b.item;return c({additionalThreadContext:a[1]})})},function(a){return b.resolve(c)}])}e.exports=a}),null);

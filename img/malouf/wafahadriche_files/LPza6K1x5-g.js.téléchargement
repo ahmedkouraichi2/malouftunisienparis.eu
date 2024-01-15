@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("WhatsappDeeplinkClickedFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("2");b=d("FalcoLoggerInternal").create("whatsapp_deeplink_clicked",a);e=b;g["default"]=e}),98);
+__d("WhatsappDeeplinkRenderedFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("20");b=d("FalcoLoggerInternal").create("whatsapp_deeplink_rendered",a);e=b;g["default"]=e}),98);

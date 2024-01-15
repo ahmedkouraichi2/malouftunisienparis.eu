@@ -1,0 +1,7 @@
+;/*FB_PKG_DELIM*/
+
+__d("GroupsCometEntityMenuInSmallScreenPopoverQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="6874488815974291"}),null);
+__d("EventsActionsSrCoreFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("1845787");b=d("FalcoLoggerInternal").create("events_actions_sr_core",a);e=b;g["default"]=e}),98);
+__d("GroupClickActionFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("780");b=d("FalcoLoggerInternal").create("group_click_action",a);e=b;g["default"]=e}),98);
+__d("GroupLeadersEngagementFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("1743660");b=d("FalcoLoggerInternal").create("group_leaders_engagement",a);e=b;g["default"]=e}),98);
+__d("GroupsKeyCommandShortcutsFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("2955");b=d("FalcoLoggerInternal").create("groups_key_command_shortcuts",a);e=b;g["default"]=e}),98);
