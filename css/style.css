@@ -197,7 +197,7 @@
 }
 
 .page-header {
-    background:  url(../img/malouf/malouf1.JPG);
+    background:  url(../img/malouf/troupe1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -590,3 +590,12 @@ ul li.playing .row span::before
 
 
 
+
+
+@media only screen and (max-width: 480px) {
+    
+.responsive {
+    max-width: 100%;
+    height: 40px;
+}
+  }
